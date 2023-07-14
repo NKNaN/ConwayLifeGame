@@ -4,3 +4,5 @@
 * Click "Stop" and the game stops
 * Click "Clear" and all the cells are set to be dead
 * It is allowed to make a cell alive/dead by mouse click during the game.
+
+# Download clg.exe or compile the java classes to enjoy
